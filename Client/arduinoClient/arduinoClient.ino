@@ -17,8 +17,8 @@
 #include <PubSubClient.h>
 #include <ESP8266WiFi.h>
 
-const char* ssid = "Langino-low";
-const char* password = "pastadipizza";
+const char* ssid = "Nome rete";
+const char* password = "Password";
 
 // Update these with values suitable for your network.
 IPAddress server(167,71,79,43);
